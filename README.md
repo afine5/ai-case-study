@@ -70,4 +70,5 @@ As a product design generalist who was entrapped by the rounds of layoffs that t
 9. [Product design jobs in decline](https://medium.com/@sushantvohra/the-thing-about-design-layoffs-ed8d0f91f997)
 10. [Google's AI overview re: layoffs](https://www.google.com/search?q=number+of+product+designers+laid+off+since+2022&rlz=1C5CHFA_enUS923US923&oq=num&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIMCAEQABhDGIAEGIoFMgYIAhBFGDkyDAgDEAAYQxiABBiKBTIMCAQQABhDGIAEGIoFMgYIBRBFGD0yBggGEEUYPDIGCAcQRRg80gEIMTAxNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
 11. [recent collaboration with Figma](https://blog.replit.com/figma-to-replit)
-12. [source](https://www.nytimes.com/2024/05/03/podcasts/hard-fork-work-hank-green-deepfake.html)
+12. [NYT Hard Fork episode](https://www.nytimes.com/2024/05/03/podcasts/hard-fork-work-hank-green-deepfake.html)
+13. ChatGPT was used to help find appropriate resources for this assignment
